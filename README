@@ -1,0 +1,8 @@
+1. Get Greasemonkey (https://addons.mozilla.org/de/firefox/addon/748/) and install
+2. Go to your last.fm profile page (http://www.lastfm.de/user/YOUR_USERNAME_HERE)
+3. Right-click on the Greasemonkey Icon and select "Add new Script"
+4. Enter a Name for the Script and make sure your last.fm profile is already insterted in the dialog
+5. Copy the code from the userscript.js in this repository and paste it into your editor.
+6. Go back to your last.fm profile and tweet your songs ;-)
+
+If you encounter any problems feel free to send feedback to me.
